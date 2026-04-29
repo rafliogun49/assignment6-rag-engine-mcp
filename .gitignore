@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Virtual environment
+.venv/
+
+# ChromaDB data
+chroma_db/
+
+# Uploaded files
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ruff cache
+.ruff_cache/
+
+# Context folder (mentor materials)
+../context/
